@@ -1,0 +1,3 @@
+[submodule "rooms/ptx-room"]
+	path = rooms/ptx-room
+	url = https://github.com/Lucineer/ptx-room.git
